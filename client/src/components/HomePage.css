@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .base {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: "Poppins", sans-serif;
+
+  }
+  
+  .home h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .inventory-btn,
+  .delivery-btn {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .inventory-btn {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .delivery-btn {
+    background-color: #2196f3;
+    color: white;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .home {
+      flex-direction: row;
+    }
+  
+    .buttons {
+      flex-direction: row;
+    }
+  
+    .inventory-btn,
+    .delivery-btn {
+      margin: 10px;
+    }
+  }
+
+  .back{
+    background-color: black;
+  }
+  
+  

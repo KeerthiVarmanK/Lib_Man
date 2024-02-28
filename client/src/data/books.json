@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "subject": "Fiction",
+    "publishDate": "July 11, 1960"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "subject": "Dystopian Fiction",
+    "publishDate": "June 8, 1949"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "subject": "Fiction",
+    "publishDate": "April 10, 1925"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "subject": "Romance",
+    "publishDate": "January 28, 1813"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "subject": "Fiction",
+    "publishDate": "July 16, 1951"
+  },
+  {
+    "id": 6,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "subject": "Political Satire",
+    "publishDate": "August 17, 1945"
+  },
+  {
+    "id": 7,
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "subject": "Fiction",
+    "publishDate": "September 17, 1954"
+  },
+  {
+    "id": 8,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "subject": "Dystopian Fiction",
+    "publishDate": "July 1, 1932"
+  },
+  {
+    "id": 9,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "subject": "Fantasy",
+    "publishDate": "September 21, 1937"
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "subject": "Fantasy",
+    "publishDate": "July 29, 1954"
+  },
+  {
+    "id": 11,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "subject": "Adventure Fiction",
+    "publishDate": "October 18, 1851"
+  },
+  {
+    "id": 12,
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "subject": "Historical Fiction",
+    "publishDate": "June 30, 1936"
+  },
+  {
+    "id": 13,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "subject": "Epic Poetry",
+    "publishDate": "8th century BCE"
+  },
+  {
+    "id": 14,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "subject": "Adventure Fiction",
+    "publishDate": "December 10, 1884"
+  },
+  {
+    "id": 15,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "subject": "Gothic Fiction",
+    "publishDate": "July 1, 1890"
+  }
+]
